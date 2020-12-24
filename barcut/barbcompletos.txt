@@ -1,0 +1,93 @@
+<!--================ Start Team Area ================= -->
+	<section class="team-area section-gap">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-md-8 text-center">
+					<div class="section-title">
+						<h1>We Have All Famous Barbers</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+							magna aliqua ad minim veniam</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<!-- single member -->
+				<div class="col-lg-4 col-md-4">
+					<div class="single-team-member">
+						<div class="member-img">
+							<img class="img-fluid" src="img/team/person1.jpg" alt="">
+						</div>
+
+						<div class="proff">
+							<h4>Peter Baker</h4>
+							<p>Head hair Cut Specialist</p>
+						</div>
+					</div>
+				</div>
+				<!-- single member -->
+				<div class="col-lg-4 col-md-4">
+					<div class="single-team-member">
+						<div class="member-img">
+							<img class="img-fluid" src="img/team/person2.jpg" alt="">
+						</div>
+						<div class="proff">
+							<h4>Nancy Holmes</h4>
+							<p>Spa & Makeup Specialist</p>
+						</div>
+					</div>
+				</div>
+				<!-- single member -->
+				<div class="col-lg-4 col-md-4">
+					<div class="single-team-member">
+						<div class="member-img">
+							<img class="img-fluid" src="img/team/person3.jpg" alt="">
+						</div>
+						<div class="proff">
+							<h4>Gavin Hansen</h4>
+							<p>Hair Styling Expert</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row mt-40">
+					<!-- single member -->
+					<div class="col-lg-4 col-md-4">
+						<div class="single-team-member">
+							<div class="member-img">
+								<img class="img-fluid" src="img/team/person1.jpg" alt="">
+							</div>
+	
+							<div class="proff">
+								<h4>Peter Baker</h4>
+								<p>Head hair Cut Specialist</p>
+							</div>
+						</div>
+					</div>
+					<!-- single member -->
+					<div class="col-lg-4 col-md-4">
+						<div class="single-team-member">
+							<div class="member-img">
+								<img class="img-fluid" src="img/team/person2.jpg" alt="">
+							</div>
+							<div class="proff">
+								<h4>Nancy Holmes</h4>
+								<p>Spa & Makeup Specialist</p>
+							</div>
+						</div>
+					</div>
+					<!-- single member -->
+					<div class="col-lg-4 col-md-4">
+						<div class="single-team-member">
+							<div class="member-img">
+								<img class="img-fluid" src="img/team/person3.jpg" alt="">
+							</div>
+							<div class="proff">
+								<h4>Gavin Hansen</h4>
+								<p>Hair Styling Expert</p>
+							</div>
+						</div>
+					</div>
+				</div>
+		</div>
+	</section>

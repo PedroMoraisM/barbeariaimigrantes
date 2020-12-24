@@ -1,0 +1,25 @@
+<div class="single-post row">
+						<div class="col-lg-3  col-md-3 meta-details">							
+							<div class="user-details row">
+								<p class="user-name col-lg-12 col-md-12 col-6"><a href="#">André Zezilia</a> <span class="lnr lnr-user"></span></p>
+								<p class="date col-lg-12 col-md-12 col-6"><a href="#">01 Jan, 2019</a> <span class="lnr lnr-calendar-full"></span></p>
+								<p class="view col-lg-12 col-md-12 col-6"><a href="#">100 Views</a> <span class="lnr lnr-eye"></span></p>
+								
+							</div>
+						</div>
+						<div class="col-lg-9 col-md-9 ">
+							<div class="feature-img">
+								<img class="img-fluid" width="300" src="img/blog/dica1.png" alt="">
+							</div>
+							<a class="posts-title" href="blog-single.html">
+								<h3>Dicas para controlar a caspa</h3>
+							</a>
+							<p class="excert">
+								1) Evite o uso de água quente e secador quente na raiz dos cabelos.<br>
+								2) Nunca durma com o cabelo molhado ou úmido. <br>
+								3) Evite o uso de bonés e chapéus. <br>
+								4) Use um shampoo anti caspa de qualidade.
+							</p>
+							<a href="blog-single.php" class="primary-btn">Ver tudo</a>
+						</div>
+					</div>

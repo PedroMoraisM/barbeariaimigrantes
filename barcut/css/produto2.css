@@ -1,0 +1,37 @@
+
+			.title-prod {
+				width:400px;
+				height:110px;
+				padding-top: 50px;
+				padding-left: 30px;							
+				padding-right: 30px;							
+				font-family: "Playfair Display", serif;
+				color: #000;
+				line-height: 1.2;				
+				font-weight: 700;
+				font-size: 1.5rem;				
+			}
+			.img-prod {
+				width:300px;
+				height:300px;													
+				margin-left: -5px;
+				background: #000;	
+			}
+			.single-price .precoprod  h1 {
+    font-size: 36px;
+    font-weight: 700;
+	color: #000;
+    font-family: "Roboto", sans-serif;
+    border-top: 1px dashed #bb9236;
+    margin-top: 15px;
+    padding: 15px 0;
+    -webkit-transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s; }
+	
+	 .single-price:hover .precoprod h1 {
+      text-shadow: 0 10px 30px rgba(187, 146, 54, 0.3); 
+	  color: #bb9236; } 
+			
+				
